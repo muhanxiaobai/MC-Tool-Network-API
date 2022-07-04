@@ -4,4 +4,4 @@
 
 如果你有好的建议可以联系我，我的邮箱muhan@muhan.ltd
 
-当然我们也有github图片储存库可以使用域名tc.muhantc.cf
+当然我们也有github图片储存库可以使用域名https://tc.muhantc.cf/
